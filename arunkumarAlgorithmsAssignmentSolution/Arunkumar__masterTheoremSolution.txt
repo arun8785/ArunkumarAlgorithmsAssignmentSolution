@@ -1,0 +1,5 @@
+a) Θ(nlog n)
+b) Θ(n^2 log 1/n)
+c) NA
+d) Θ(nlog n)
+e) NA
